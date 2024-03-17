@@ -1,0 +1,18 @@
+.header {
+  background-color: antiquewhite;
+}
+.list {
+  padding: 10px;
+}
+
+.list li {
+  display: inline;
+  margin-left: 10px;
+}
+
+.list li a {
+  color: blue;
+  font-size: 20px;
+
+  text-decoration: none;
+}
